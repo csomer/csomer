@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My Favorite Tutorials:<br/>
+<a href="https://app.pluralsight.com/course-player?clipId=65c52ba1-988c-439c-81df-b1511b2d0530">How GitHub Works</a>
+
+
 <!--
 **csomer/csomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
