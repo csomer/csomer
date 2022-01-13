@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My Favorite Tutorials:<br/>
-<a href="https://app.pluralsight.com/course-player?clipId=65c52ba1-988c-439c-81df-b1511b2d0530">How GitHub Works</a>
+Favorite Tutorials:<br/>
+<a href="https://app.pluralsight.com/course-player?clipId=65c52ba1-988c-439c-81df-b1511b2d0530">How GitHub Works</a> - this is a fantastic explanation of Git that leads to a valuable understanding which enables one to work easily with Git and GitHub. I wrestled Git and GitHub initially as I had previously worked with other version control systems that work differently in concept. This outstanding explanational tutorial got me on the right path, highly recommend. Thank you Paolo Perrotta!!
 
 
 <!--
